@@ -1,0 +1,14 @@
+estraces
+numpy
+h5py
+matplotlib
+tqdm
+plotly-resampler
+ipywidgets
+scipy
+scikit-learn
+holoviews
+scared
+ipympl
+
+
